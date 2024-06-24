@@ -42,10 +42,15 @@ docker compose up -d <nombre servicio>
 ```
 
 ### Listar contenedores en ejecución que se crearon por docker compose
+
+
 ```
 docker compose ps
 ```
-### COMPLETAR CON UNA CAPTURA DE PANTALLA DEL LISTADO DE LOS CONTENEDORES EN EJECUCIÓN
+
+
+![Ejercicio docker compose](imagenes/1.1.png)
+
 
 ### Detener y eliminar los contenedores definidos en el archivo
 ```
